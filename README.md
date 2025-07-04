@@ -1,7 +1,7 @@
 # House-Price-Prediction
 # 🏡 House Price Prediction using XGBoost
 
-This project predicts house prices based on various features using the **XGBoost Regression** model. It uses a dataset (e.g., from Kaggle or UCI) with attributes like area, number of rooms, location, etc., to train a model and estimate property prices.
+This project predicts house prices based on various features using the **XGBoost Regression** model. It uses a dataset from Kaggle with attributes like area, number of rooms, location, etc., to train a model and estimate property prices.
 
 ---
 
